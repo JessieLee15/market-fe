@@ -1,5 +1,6 @@
 import Vue from 'vue'
 import App from './App'
+// import './component/install'
 
 import uView from "uview-ui";
 Vue.use(uView);

@@ -5,6 +5,7 @@
       <text class="title">{{title}}</text>
       <u-rate count="count" v-model="value"></u-rate>
     </view>
+		<!-- <dm-tabbar></dm-tabbar> -->
   </view>
 </template>
 
@@ -13,7 +14,7 @@
 		data() {
 			return {
 				title: 'Hello',
-				count: 5,
+				count: 6,
 				value: 2
 			}
 		},
